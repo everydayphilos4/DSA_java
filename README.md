@@ -1,3 +1,3 @@
 # DSA_java
 Hello DSA !
-learning DSA is fun!!!
+learning Data Structures and Algorithms is fun!!!
