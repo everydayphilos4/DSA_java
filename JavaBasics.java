@@ -7,4 +7,4 @@ public class JavaBasics {
         System.out.print("see magic\nsee magic");
     }
 }
-//boilerplate code
+// boilerplate code
