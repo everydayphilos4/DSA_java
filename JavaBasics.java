@@ -1,4 +1,4 @@
-//java basics code
+//java basics
 public class JavaBasics {
     public static void main(String args[]){
 
