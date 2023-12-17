@@ -1,4 +1,4 @@
-//java basics
+//Hey java basics
 public class JavaBasics {
     public static void main(String args[]){
 
